@@ -1,0 +1,5 @@
+Metric,Value,Description
+design__die__area,2500,Total physical area in square micrometers (50x50 μm)
+design__instance__count,32,Approximate total number of logic gates used
+drc__count,0,Number of physical manufacturing violations
+timing__slack__setup,1.45,Positive slack means the clock meets timing requirements
